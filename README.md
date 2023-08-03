@@ -6,7 +6,6 @@ Sauce & Spoon was my capstone project for the Google Project Management Profesti
 Sauce & Spoon is a small restaurant chain that wants to meet its annual growth and expansion goals. As one way to meet these goals, they’ve decided to launch a pilot project to test out the impact of installing new tabletop menu tablets. The new menu tablets will allow the restaurant to serve more guests in less time and will also provide valuable data that will help Sauce & Spoon meet its business goals.
 
 ### Learnings:
-
 - Analyzed project documents and supporting materials to identify project documents and supporting materials to understand project requirements, assess stakeholders, and tackle problems effectively.
 
 - Successfully completed a project charter, utilizing it as a valuable tool to align project scope and objectives among stakeholders.
